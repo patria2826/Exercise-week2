@@ -8,10 +8,10 @@ void setup()
   size(640,480);
   background(255); 
   x=0;
-  photo0 = loadImage("0.jpg");
-  photo1 = loadImage("1.jpg");
-  photo2 = loadImage("2.jpg");
-  photo3 = loadImage("3.jpg");
+  photo0 = loadImage("E3Pic/0.jpg");
+  photo1 = loadImage("E3Pic/1.jpg");
+  photo2 = loadImage("E3Pic/2.jpg");
+  photo3 = loadImage("E3Pic/3.jpg");
 }
 
 void draw()
